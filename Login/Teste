@@ -3,7 +3,7 @@
 <item>
 <title>[B]A Nuvem Rosa[/B]</title>
 
-<link>plugin://plugin.video.youtube/play/?video_id=dYiFShN8QMs</link>
+<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=dYiFShN8QMs</link>
 <thumbnail>https://tinyurl.com/4hets7ct</thumbnail>
 <fanart>https://tinyurl.com/4rbu2rr2</fanart>
 <info>[B][COLOR yellow] Lançamento:[/COLOR][COLOR green]2021[/COLOR][/B]
